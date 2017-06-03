@@ -1,1 +1,1 @@
-# applied-machine-learning-in-python
+# Applied Machine Learning in Python
