@@ -1,0 +1,14 @@
+1. 0.99
+2. 0.906
+3. 0.835
+4. 0.835 - X
+5. 0.6
+6. Roc 1 3 2
+7. Roc 2 3 1 - X (has to be one of the last two answers)
+8. 0.82 - X
+9. The best possible score is 1.0 & A model that always predicts the mean of y would get a score of 0.0
+10. Precision
+11. Recall
+12. The model is probably misclassifying the frequent labels more than the infrequent labels
+13. 0.100 - X
+14. 0.300 - X
