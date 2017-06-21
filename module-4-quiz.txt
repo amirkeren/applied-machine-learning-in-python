@@ -1,0 +1,10 @@
+1. Separate the data into distinct groups by similarity
+2. Trees are easy to interpret and visualize, Trees often require less preprocessing of data
+3. To improve generalization by reducing correlation among the trees and making the model more robust to bias.
+4. Support Vector Machines, Naive Bayes - X
+5. For predicting future sales of a clothing line, Linear regression would be a better choice than a decision tree regressor., For a fitted model that doesn’t take up a lot of memory, KNN would be a better choice than logistic regression., For a model that won’t overfit a training set, Naive Bayes would be a better choice than a decision tree. - X
+6. Neural Network, KNN (k=1), Decision Tree
+7. 0.5 - X
+8. collection_status - Flag for payments in collections, compliance_detail - More information on why each ticket was marked compliant or non-compliant
+9. If time is a factor, remove any data related to the event of interest that doesn’t take place prior to the event., Remove variables that a model in production wouldn’t have access to, Sanity check the model with an unseen validation set
+10. 0 1 1 0
